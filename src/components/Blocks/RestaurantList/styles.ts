@@ -54,6 +54,7 @@ export const Description = styled.div`
     display: flex;
     align-items: center;
     font-weight: bold;
+    font-size: 18px;
 
     img {
       margin-left: 8px;

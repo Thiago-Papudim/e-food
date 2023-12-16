@@ -25,10 +25,12 @@ export const BennerStyle = styled.div`
 
     h2 {
       font-weight: 900;
+      font-size: 36px;
     }
 
     h3 {
       font-weight: 100;
+      font-size: 32px;
     }
   }
 `

@@ -6,7 +6,7 @@ export const List = styled.ul`
   grid-template-columns: 1fr 1fr 1fr;
   justify-items: center;
   row-gap: 32px;
-  column-gap: 32px;
+  column-gap: 25px;
   margin-top: 64px;
   margin-bottom: 80px;
 

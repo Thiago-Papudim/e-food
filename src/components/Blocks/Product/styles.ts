@@ -21,7 +21,7 @@ export const PratoStyle = styled.div`
   }
 
   p {
-    margin: 8px 0 64px;
+    margin: 8px 0 32px;
     font-size: 14px;
     font-weight: 400;
     line-height: 22px;

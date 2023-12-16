@@ -20,7 +20,7 @@ export const BennerStyle = styled.div`
     justify-content: space-around;
     height: 100%;
     color: ${cores.corTexto};
-    font-size: 32px;
+    font-size: 16px;
     line-height: 37.5px;
 
     h2 {

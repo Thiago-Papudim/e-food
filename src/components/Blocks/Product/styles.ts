@@ -2,7 +2,7 @@ import styled from 'styled-components'
 import { cores } from '../../../styles'
 
 export const ImageStyle = styled.img`
-  width: 300px;
+  width: 304px;
   height: 168px;
   object-fit: cover;
   margin-bottom: 8px;
@@ -13,6 +13,7 @@ export const PratoStyle = styled.div`
   color: ${cores.corSecondary};
   position: relative;
   padding: 8px;
+  margin-left: 8px;
 
   h3 {
     font-size: 16px;

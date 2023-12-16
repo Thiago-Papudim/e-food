@@ -30,7 +30,7 @@ export const HeaderStyle = styled.div`
     color: ${cores.corPrimary};
     line-height: 22px;
     font-weight: 900;
-    font-size: 16px;
+    font-size: 18px;
     width: 96px;
 
     @media (max-width: ${breakpoints.tablet}) {

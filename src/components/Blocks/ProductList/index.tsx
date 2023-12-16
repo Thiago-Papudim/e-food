@@ -19,7 +19,7 @@ const ProductList = () => {
   return (
     <>
       <Banner
-        avaliacao={restaurant.avaliacao}
+        tipo={restaurant.tipo}
         titulo={restaurant.titulo}
         capa={restaurant.capa}
       />

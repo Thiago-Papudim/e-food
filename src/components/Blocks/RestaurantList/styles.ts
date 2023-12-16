@@ -25,8 +25,8 @@ export const Store = styled.div`
   ${TagContainer} {
     position: absolute;
     margin-left: 8px;
-    right: 8px;
-    top: 8px;
+    right: 16px;
+    top: 16px;
   }
 `
 export const Capa = styled.img`
@@ -43,7 +43,7 @@ export const Description = styled.div`
   border: 1px solid ${cores.corPrimary};
 
   h3 {
-    font-size: 16px;
+    font-size: 18px;
     font-weight: bold;
   }
 

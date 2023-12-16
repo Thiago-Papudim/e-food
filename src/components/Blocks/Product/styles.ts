@@ -79,7 +79,7 @@ export const ModalImage = styled.img`
 
 export const ModalSobre = styled.div`
   h2 {
-    margin-top: 2px;
+    margin-top: 0px;
     margin-bottom: 16px;
     font-size: 18px;
     font-weight: 900;
@@ -96,8 +96,8 @@ export const ModalSobre = styled.div`
 
 export const Close = styled.img`
   position: absolute;
-  right: 16px;
-  top: 16px;
+  right: 8px;
+  top: 8px;
   cursor: pointer;
   width: 16px;
   height: 16px;

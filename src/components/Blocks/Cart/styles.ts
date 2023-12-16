@@ -33,7 +33,7 @@ export const Sidebar = styled.aside`
   background-color: ${cores.corPrimary};
   max-width: 360px;
   width: 100%;
-  padding: 40px 16px 0 16px;
+  padding: 40px 8px 0 8px;
 
   &.is-closed {
     display: none;
@@ -135,11 +135,13 @@ export const CartItem = styled.li`
     font-size: 16px;
     font-weight: bold;
     margin-bottom: 16px;
+    color: ${cores.corPrimary};
   }
 
   span {
     display: block;
     font-size: 14px;
+    color: ${cores.corPrimary};
   }
 
   button {
